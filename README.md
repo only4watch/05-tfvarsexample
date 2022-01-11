@@ -1,2 +1,2 @@
 # tfvars
-terraform applt --var-file=production.tfvars
+terraform apply --var-file=production.tfvars
